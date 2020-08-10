@@ -1,0 +1,10 @@
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\bin\Debug\Calcular el consto de un servicio.exe.config
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\bin\Debug\Calcular el consto de un servicio.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\bin\Debug\Calcular el consto de un servicio.pdb
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\PracticaHerencia.csprojAssemblyReference.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\PracticaHerencia.Form1.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\Calcular_el_consto_de_un_servicio.Properties.Resources.resources
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\PracticaHerencia.csproj.GenerateResource.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\PracticaHerencia.csproj.CoreCompileInputs.cache
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\Calcular el consto de un servicio.exe
+D:\UTHH\9° Cuatri\Programacion\Parcial 1\20170970_P1_PracticaHerencia\obj\Debug\Calcular el consto de un servicio.pdb
